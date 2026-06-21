@@ -134,35 +134,6 @@ class HarshitVarshney:
 
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Varshneyhars/advanced-key-generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varshneyhars&repo=advanced-key-generator&theme=tokyonight" alt="advanced-key-generator" />
-</a>
-<a href="https://github.com/Varshneyhars/ai-bg-remover">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varshneyhars&repo=ai-bg-remover&theme=tokyonight" alt="ai-bg-remover" />
-</a>
-<a href="https://github.com/Varshneyhars/Spam-Message-Classifier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varshneyhars&repo=Spam-Message-Classifier&theme=tokyonight" alt="Spam-Message-Classifier" />
-</a>
-<a href="https://github.com/Varshneyhars/advanced-email-existence">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varshneyhars&repo=advanced-email-existence&theme=tokyonight" alt="advanced-email-existence" />
-</a>
-
-</div>
-
-| Project | What it does | Stack |
-| :------ | :----------- | :---- |
-| 🔑 [**advanced-key-generator**](https://github.com/Varshneyhars/advanced-key-generator) | Node.js library for secure, customizable API keys & tokens — random strings, bytes, Base32, Base62, UUIDs. | `JS` `Node.js` |
-| 🖼️ [**ai-bg-remover**](https://github.com/Varshneyhars/ai-bg-remover) | High-performance AI background remover, inspired by remove.bg. | `Python` `AI` |
-| 📩 [**Spam-Message-Classifier**](https://github.com/Varshneyhars/Spam-Message-Classifier) | ML model classifying SMS as spam / not spam. | `Python` `scikit-learn` `NLTK` |
-| ✉️ [**advanced-email-existence**](https://github.com/Varshneyhars/advanced-email-existence) | Utility to verify whether an email address really exists. | `JavaScript` |
-| 🌐 [**Portfolio**](https://github.com/Varshneyhars/Portfolio) | My personal portfolio website. | `HTML` `CSS` |
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -173,16 +144,6 @@ class HarshitVarshney:
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varshneyhars&theme=tokyonight&hide_border=true" alt="streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Varshneyhars&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
 
 </div>
 
